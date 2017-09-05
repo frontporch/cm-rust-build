@@ -1,5 +1,5 @@
 
-FROM scorpil/rust:1.20
+FROM rust:1.20.0-jessie
 
 ENV DEBIAN_FRONTEND=noninteractive
 
