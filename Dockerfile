@@ -1,5 +1,5 @@
 
-FROM scorpil/rust:1.17
+FROM scorpil/rust:1.20
 
 ENV DEBIAN_FRONTEND=noninteractive
 
