@@ -1,5 +1,5 @@
 
-FROM rust:1.20.0-jessie
+FROM rust:1.21.0-jessie
 
 ENV DEBIAN_FRONTEND=noninteractive
 
